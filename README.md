@@ -34,6 +34,6 @@ A robust Price Intelligence & Web Scraping engine designed for e-commerce automa
 
 ---
 **Author:** Krystian Jasiura  
-**Contact:**
+**Contact**
 **Useme:**https://useme.com/pl/roles/contractor/krystian-jasiura,615833/
 **Email:**krystian.jasiura@gmail.com
